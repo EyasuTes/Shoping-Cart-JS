@@ -1,0 +1,18 @@
+[
+    {
+        "img":"/images/products/engine.png",
+        "text":"Engine Components",
+        "category":"engine"
+    },
+    {
+        "img":"/images/products/trans.webp",
+        "text":"Transmission Components",
+        "category":"trans"
+    },
+    {
+        "img":"/images/products/other.avif",
+        "text":"Misecellaneous Components",
+        "category":"mis"
+    }
+
+]

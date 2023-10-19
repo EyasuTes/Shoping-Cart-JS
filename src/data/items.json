@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "name": "Cam-Shafts",
+        "price": 4000,
+        "imgurl": "/images/items/engine/camshafts.jpg",
+        "category": "engine"
+    },
+    {
+        "id":2,
+        "name": "Timing-Chane",
+        "price": 8000,
+        "imgurl": "/images/items/engine/chanes.webp",
+        "category": "engine"
+
+    },
+    {
+        "id":3,
+        "name": "Piston",
+        "price": 10000,
+        "imgurl": "/images/items/engine/piston.avif",
+        "category": "engine"
+    },
+    {
+        "id":4,
+        "name": "Clutch",
+        "price": 4000,
+        "imgurl": "/images/items/trans/clutch.avif",
+        "category": "trans"
+    },
+    {
+        "id":5,
+        "name": "CVT-Gear",
+        "price": 4000,
+        "imgurl": "/images/items/trans/cvt-gear.webp",
+        "category": "trans"
+    },
+    {
+        "id":6,
+        "name": "Torque-Converter",
+        "price": 4000,
+        "imgurl": "/images/items/trans/torqueConverter.webp",
+        "category": "trans"
+    },
+    {
+        "id":7,
+        "name": "Shocks",
+        "price": 4000,
+        "imgurl": "/images/items/other/shocks.jpg",
+        "category": "mis"
+    },
+    {
+        "id":8,
+        "name": "Tyres",
+        "price": 4000,
+        "imgurl": "/images/items/other/tyre.png",
+        "category": "mis"
+    },
+    {
+        "id":9,
+        "name": "Wheels",
+        "price": 4000,
+        "imgurl": "/images/items/other/wheel.avif",
+        "category": "mis"
+    }
+    
+
+
+    
+]
