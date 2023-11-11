@@ -45,9 +45,10 @@ export default function Navbar() {
 
       <div className="relative ">
         <NavLink to="/cart" onClick={() => handleNavLinkClick("/cart")}>
+          <div></div>
           <ShoppingCart
             size={40}
-            className="bg-gray-500 text-gray-800 bg-gray-200 rounded-full p-2  hover:bg-blue-100 cursor-pointer"
+            className="bg-gray-500 text-gray-100 hover:text-gray-900 text-white rounded-full p-2  hover:bg-blue-100 cursor-pointer"
           />
         </NavLink>
 
